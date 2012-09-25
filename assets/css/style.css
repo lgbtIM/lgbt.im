@@ -38,8 +38,9 @@
 
 /* Main definitions */
 * {outline: none !important;}
-body {background-color: #edeff0; font-family: 'Open Sans Condensed', sans-serif;}
+body {background-color: #edeff0;}
 p {text-align: justify; font-size: 13px; color: #87888a; font-size: 15px;}
+h1 { font-family: 'Open Sans Condensed', 'Helvetica', 'Arial', sans-serif; }
 .bg-blue {background: url('../img/bg-black.png') no-repeat scroll center top #35383f;}
 .bg-red {background: url('../img/bg-red.png') repeat fixed center center #d8230e;}
 .dotted-black {background: url('../img/bg-border-dotted-black.png') repeat-x scroll 0 100% transparent;}
